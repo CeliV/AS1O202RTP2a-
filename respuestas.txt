@@ -1,0 +1,3 @@
+1- A simple vista se pueden observar problemas como la falta de sincronizacion entre los hilos
+2- El nombre a la falla que ocurre en el codigo y provoca que cada ejecucion presente resultandos diferentes se le llama " race condition", es una condicion de carrera en la que una serie de hilos compiten por recursos compartidos sin una coordinacion, lo que desencadena resultandos impredecibles y errores en la ejecucion del programa.
+

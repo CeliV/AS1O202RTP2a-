@@ -1,0 +1,2 @@
+los problemas que se pueden ver a simple vista son los errores al momento de ejecutar el turno de los comensales consecutivamente.
+ El nombre que se le da a dicha falla es Race conditions-  exlucusión mutua ^ 
